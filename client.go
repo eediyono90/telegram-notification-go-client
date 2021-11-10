@@ -2,6 +2,6 @@ package client
 
 import "fmt"
 
-func main() {
+func Initialize() {
 	fmt.Println("Initialize Telegram Client")
 }
